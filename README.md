@@ -1,6 +1,6 @@
 # Olá, eu sou a Bianca 👋
 
-🎓 Graduanda em Farmácia (4º período) — UniBrasil, com foco em **Análises Clínicas e Pesquisas**.
+🎓 Graduanda em Farmácia (4º período) — UniBrasil, com foco em **Análises Clínicas, Pesquisas e Desenvolvimento.**.
 
 🔬 Diferencial em microscopia digital, Inteligência Artificial e Robótica aplicadas à rotina laboratorial. Possuo laboratório e instrumentação próprios — equipamentos adquiridos e importados para prática autônoma de estudos e pesquisas em microbiologia e citologia.
 
