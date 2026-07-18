@@ -6,6 +6,8 @@
 
 🤖 Desenvolvo ferramentas digitais com apoio de Inteligência Artificial (Claude, Anthropic) para dar suporte a estudos de farmacologia.
 
+📍 Curitiba - PR | 🔗 [LinkedIn](https://www.linkedin.com/in/bianca-durao-martins-chiaretto)
+
 ---
 
 ### 🧪 Instrumentação própria
