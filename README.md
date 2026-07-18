@@ -18,7 +18,7 @@
 - 🧬 [Calculadora de Peptídeos](https://github.com/biancadmchiaretto/calculadora-peptideos) — cálculos de reconstituição/diluição, conversão de concentração e absorbância (A280).
 - 📖 [Guia de Referência — Farmacologia & Peptídeos](https://github.com/biancadmchiaretto/guia-referencia-farmacologia-peptideos) — +120 peptídeos, siglas farmacológicas e conceitos por sistemas, com fontes referenciadas (FDA, EMA, ANVISA, DrugBank, PubMed).
 
-### 🌱 Formação complementar
+### 🌱 Formação complementar  (Farmácia e Biomedicina)
 Análises Clínicas • Cálculos e Administração de Medicamentos • Auxiliar de Laboratório • Necropsia Forense
 
 ### 📫 Contato
