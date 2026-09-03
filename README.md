@@ -1,14 +1,14 @@
 # Olá, eu sou a Bianca 👋
-🎓 Graduanda em Farmácia (4º período) — UniBrasil, com foco em **Análises Clínicas, Pesquisas e Desenvolvimento.**.
-🔬 Diferencial em microscopia digital, Inteligência Artificial e Robótica aplicadas à rotina laboratorial. Possuo laboratório e instrumentação próprios — equipamentos adquiridos e importados para prática autônoma de estudos e pesquisas em microbiologia e citologia.
-🤖 Desenvolvo ferramentas digitais com apoio de Inteligência Artificial (Claude, Anthropic) para dar suporte a estudos de farmacologia.
+🎓 Graduanda em Farmácia (4º período) — UniBrasil, com foco em **Análises Clínicas, Pesquisas e Desenvolvimento.**.<br>
+🔬 Diferencial em microscopia digital, Inteligência Artificial e Robótica aplicadas à rotina laboratorial. Possuo laboratório e instrumentação próprios — equipamentos adquiridos e importados para prática autônoma de estudos e pesquisas em microbiologia e citologia.<br>
+🤖 Desenvolvo ferramentas digitais com apoio de Inteligência Artificial (Claude, Anthropic) para dar suporte a estudos de farmacologia.<br>
 📍 Curitiba - PR | 🔗 [LinkedIn](https://www.linkedin.com/in/bianca-durao-martins-chiaretto)
 
 ---
 
 ### 💼 Experiência
-**Estagiária** — CLAMED Farmácias · Temporário
-📅 set de 2026 - o momento
+**Estagiária** — CLAMED Farmácias · Temporário<br>
+📅 set de 2026 - o momento · 1 mês<br>
 📍 Curitiba, Paraná, Brasil · No local
 
 - Fazer o controle de psicotrópicos, incluindo recebimento, armazenamento, balanços, controle de lotes, emissão de relatórios e balancetes, sob supervisão do farmacêutico.
