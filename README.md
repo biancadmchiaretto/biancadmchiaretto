@@ -8,7 +8,7 @@
 
 ### 💼 Experiência
 **Estagiária** — CLAMED Farmácias · Temporário<br>
-📅 set de 2026 - o momento<br>
+📅 set de 2026 - até o momento <br>
 📍 Curitiba, Paraná, Brasil · No local
 
 - Fazer o controle de psicotrópicos, incluindo recebimento, armazenamento, balanços, controle de lotes, emissão de relatórios e balancetes, sob supervisão do farmacêutico.
