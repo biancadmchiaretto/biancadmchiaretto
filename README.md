@@ -7,7 +7,7 @@
 ---
 
 ### 💼 Experiência
-**Estagiária** — CLAMED Farmácias · Temporário<br>
+**Estagiária** — CLAMED Farmácias<br>
 📅 set de 2026 - até o momento <br>
 📍 Curitiba, Paraná, Brasil · No local
 
